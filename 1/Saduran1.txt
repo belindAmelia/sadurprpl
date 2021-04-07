@@ -6,4 +6,5 @@ Hasil saduran :
 1) Membahas tentang kehadiran, penilaian, tugas, dan tata cara perkuliahan tersebut
 2) Setiap pertemuan menyandur materi yang diberikan oleh dosen 
 3) Bikin kelompok yang terdiri dari 3 orang untuk UAS nanti
-4) Buat akun github dan repository sesuai nama matakuliah, dibikin yang mudah saja biar bisa diingat.
+4) Buat akun github dan repository sesuai nama matakuliah, dibikin yang mudah saja biar bisa diingat
+5) Buat folder sadur1 untuk menulis hasil saduran yang kita dengar dan pahami
